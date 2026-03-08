@@ -17,18 +17,16 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhHLk8v1Y2f7hj7iSC1th9kTrz7HwWhxwWg&s",TV360+9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
-#EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" tvg-id="sctv22hd",SCTV22
-http://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png" tvg-id="htvthethaohd",HTV Thể Thao HD
 http://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png" tvg-id="qpvnhd",QPVN
-http://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png" tvg-id="antvhd",AN NINH TV HD
-http://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png" tvg-id="khanhhoa",KTV HD _ TH Khánh Hòa
 http://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/a0/0b/bf/fd/d6/6e/a0bfd-pkhnhha1-channel-unkn.png" tvg-id="khanhhoa1",KTV1 - TH. KHÁNH HÒA 1 HD
 http://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png" tvg-id="qpvnhd",QPVN
+http://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png" tvg-id="antvhd",AN NINH TV HD
+http://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png" tvg-id="htv7hd",HTV7 HD
 http://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png" tvg-id="htv9hd",HTV9 HD
@@ -67,5 +65,7 @@ http://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
 http://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/8d/de/ee/e3/3e/e7/8dee3-psctv21-channel-unkn.png" tvg-id="sctv21hd",SCTV21
 http://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
+#EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/ee/eb/bb/bb/bf/f5/eebbb-psctv22ssportt1-channel-unkn.png" tvg-id="sctv22hd",SCTV22
+http://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/91/13/30/0b/b8/09130-psctvphimtnghp-channel-unkn.png" tvg-id="sctvhdpth",SCTV Phim Tổng Hợp
 http://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
