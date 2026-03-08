@@ -9,18 +9,8 @@ http://vips-livecdn.fptplay.net/live/media/VTV2HD/live_hls_avc/index.m3u8
 http://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/8f/ff/f9/93/31/1c/8ff93-pvtv4hd-channel-unkn.png" tvg-id="vtv4hd",VTV4
 http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/03/3c/c0/01/1e/e6/03c01-pvtv5hd-channel-unkn.png" tvg-id="vtv5hd",VTV5
-http://live-a.fptplay53.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="VTV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/46/68/84/40/06/6a/46840-pvtvcnth-channel-unkn.png" tvg-id="vtvcantho",VTV Cần Thơ
 http://live-a.fptplay53.net/live/media/VTV_can_tho/live_hls_avc/index.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/0f/f4/4d/d7/75/51/0f4d7-pvtv8hd-channel-unkn.png" tvg-id="vtv8hd",VTV8
-http:/live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png" tvg-id="vtv9hd",VTV9
-http://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/48/82/2d/d6/6d/d8/482d6-pvtv5tynambhd-channel-unkn.png" tvg-id="vtv5hdtnb",VTV5 TNB
-http://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="VTV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png" tvg-id="vtv5hdtn",VTV5 TN
-http://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhHLk8v1Y2f7hj7iSC1th9kTrz7HwWhxwWg&s",TV360+10
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWhHLk8v1Y2f7hj7iSC1th9kTrz7HwWhxwWg&s",TV360+11
@@ -57,7 +47,7 @@ http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 http://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/6a/a5/5b/bc/c3/3e/6a5bc-psctv8vitv-channel-unkn.png" tvg-id="sctv8hd",SCTV8
 http://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
-#EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png" tvg-id="sctv10hd",SCTV10
+#EXTINF:-1 group-title="Chung" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg" tvg-id="sctv10hd",SCTV10
 http://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/34/4e/ec/c9/9f/f2/34ec9-psctv11tvstar-channel-unkn.png" tvg-id="sctv11hd",SCTV11
 http://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
@@ -70,7 +60,7 @@ http://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/16_47eb3436.jpg" tvg-id="sctv16hd",SCTV16
 http://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/73/39/96/6a/a3/36/7396a-psctv18phim-channel-unkn.png" tvg-id="sctv18hd",SCTV18
-http://liveh34.seenow.vn/hls/SCTV18/03.m3u8
+http://liveh34.vtvprime.vn/hls/SCTV18/03.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/05/50/07/74/46/61/05074-psctv19channelt-channel-unkn.png" tvg-id="sctv19hd",SCTV19
 http://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/36/6e/e9/97/79/91/36e97-psctv20itv-channel-unkn.png" tvg-id="sctv20hd",SCTV20
