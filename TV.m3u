@@ -23,10 +23,8 @@ http://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 http://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/a0/0b/bf/fd/d6/6e/a0bfd-pkhnhha1-channel-unkn.png" tvg-id="khanhhoa1",KTV1 - TH. KHÁNH HÒA 1 HD
 http://live.fptplay53.net/epzsd1/khanhhoa01_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png" tvg-id="qpvnhd",QPVN
-http://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png" tvg-id="antvhd",AN NINH TV HD
-http://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Chung" tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" tvg-id="htv1",HTV1 HD
+http://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png" tvg-id="htv7hd",HTV7 HD
 http://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Chung" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png" tvg-id="htv9hd",HTV9 HD
