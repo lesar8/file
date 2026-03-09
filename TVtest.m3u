@@ -24,7 +24,7 @@ http://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/8f/ff/f9/93/31/1c/8ff93-pvtv4hd-channel-unkn.png" tvg-id="vtv4hd",VTV4
 http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/46/68/84/40/06/6a/46840-pvtvcnth-channel-unkn.png" tvg-id="vtvcantho",VTV Cần Thơ
-http://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
+http://vips-livecdn.fptplay.net/live/media/VTV5HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" tvg-id="htv1",HTV1
 http://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png" tvg-id="htv7hd",HTV7
