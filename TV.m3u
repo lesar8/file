@@ -13,10 +13,10 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus9/KenhCoBan.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 http://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
-#EXTINF:-1 group-title="Kênh" tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside
-https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
-#EXTINF:-1 group-title="Kênh" tvg-logo="https://img.upanh.moe/zVDsfxxh/DAZN-Combat-png.png",DAZN Combat
+#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603220eecc45f22f296522da0597f10933f78.jpg",DAZN Combat
 http://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260322dcc63df58dfe7ec8336c9601e2c1321b.jpg",UFC
+http://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603221af430eab2116fd00ffb93c8cd7c8f0d.jpg",FightBox
 https://dash.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao
@@ -57,13 +57,3 @@ http://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 http://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/d5/5f/f5/53/33/33/d5f53-poncinehd-channel-unkn.png",ON Cine
-http://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/00/09/98/87/7c/c3/00987-ponviedramas-channel-unkn.png",ON Vie Dramas
-http://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b1/16/63/3d/d1/14/b163d-psctv9phimchu-channel-unkn.png",SCTV9
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
-http://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
