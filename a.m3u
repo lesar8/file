@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Bellator MMA
+https://jmp2.uk/plu-62792f34f3aa05000728841e.m3u8
+#EXTINF:-1 tvg-id="MMATVcom.ru" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Sports",MMA TV.com (1080p)
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-id="MMATV.us@SD" tvg-logo="https://i.imgur.com/Qxco1eW.png" group-title="Sports",MMA-TV
+http://31.148.48.15/M1_Global/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",PFL (720p)
+https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",PFL MMA
+https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
+#EXTINF:-1 tvg-id="BellatorMMA.us@SD" tvg-logo="https://i.imgur.com/VBKoLHk.png" group-title="Sports",Bellator MMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803
+#EXTINF:-1 tvg-id="MMATVcom.ru@SD" tvg-logo="https://i.imgur.com/QhdxNsB.png" group-title="Sports",MMA-TV.com
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
+#EXTINF:-1 tvg-id="PFLMMA.pl@SD" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg" group-title="Undefined",PFL MMA
+https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
