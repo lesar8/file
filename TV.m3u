@@ -41,21 +41,9 @@ http://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 http://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
 http://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png",ON Sports News
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cafb6e60c1504dfc858fd3dddc6fd20c:92061ffeb13f47c4d8879316dbc9521d
-http://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png",ON Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcda1c0511c347f8b89c1821600426ac:dbc1d4d9244f8e7d01d999d4d9f53855
 http://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png",ON Sports+
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
-http://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
