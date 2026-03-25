@@ -13,7 +13,7 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus9/KenhCoBan.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f69bf028397e4ecfafce84abb7c5fe2b:25028aad0e2003b2785cf5196a4e2fa1
 http://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_2026032549ea56c63b6d6b1de4c33d86c50c118b.jpg",DAZN Ringside
+#EXTINF:-1 group-title="Kênh" tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside
 http://aka-live1050.delivery.roku.com/de912953-aba1-4d54-8c77-d456140fa36b/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603257814a8fa6d071b6a1f3f886d46dffaed.jpg",Top Rank Classics
 http://aka-live1050.delivery.roku.com/d60c9b4b-2756-4dea-adfc-e9ec609b8cce/t2-origin/out/v1/live.m3u8
