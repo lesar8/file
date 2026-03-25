@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603257814a8fa6d071b6a1f3f886d46dffaed.jpg",Top Rank Classics
-http://aka-live1050.delivery.roku.com/d60c9b4b-2756-4dea-adfc-e9ec609b8cce/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603257814a8fa6d071b6a1f3f886d46dffaed.jpg",Top Rank Classics
-https://aegis-cloudfront-1.tubi.video/0b971699-b91c-4cad-8a17-4a4c0110665a/playlist.m3u8
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603257814a8fa6d071b6a1f3f886d46dffaed.jpg",Top Rank Classics
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d160f53c785e0008df525e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c73e6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8ce20713-803b-4c36-b6c9-1026b5b6d0e4
