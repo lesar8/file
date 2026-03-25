@@ -15,10 +15,10 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360plus9/KenhCoBan.m3u8
 http://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 #EXTINF:-1 group-title="Kênh" tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside
 http://aka-live1050.delivery.roku.com/de912953-aba1-4d54-8c77-d456140fa36b/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260323b643f0c155a5c26adac9d139006e69f4.jpg",UFC
-http://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603235e33ce2fdd12d46885c9097ec96f3578.jpg",PFL MMA
-https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603257814a8fa6d071b6a1f3f886d46dffaed.jpg",Top Rank Classics
+http://aka-live1050.delivery.roku.com/d60c9b4b-2756-4dea-adfc-e9ec609b8cce/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325fb8546c4382c7f6b88827d85131a4c6f.jpg",TNA Wrestling
+http://aka-live1050.delivery.roku.com/00c75b40-02b2-4c11-9bd9-98be0b8600e8/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao
 http://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
