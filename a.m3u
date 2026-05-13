@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="⚽🥎| Thể Thao" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab16.png",VTVCab 16 ON Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=CG0JpAv/OgCqbdTbr5wTsg:NPGQjP4uBe4GAEbUDxSuyQ
-https://s7777.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
-#EXTINF:-1 tvg-id="" group-title="abc" tvg-logo="https://freem3u.xyz/static/images/vtvcab/vtvcab16.png",VTVCab 16 ON Football 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; SM-G973F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
-https://s7777.cdn.mytvnet.vn/pkg20/__cl/gvtsig/vstv265/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260513e034c863ab8a6587d2a8d3d3a4c0d888.jpg" group-title="⚽🥎| Thể Thao",Dazn Eleven 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260513e034c863ab8a6587d2a8d3d3a4c0d888.jpg" group-title="⚽🥎| Thể Thao",Dazn Eleven 2
+http://znty.dyndns.org:5010/hls/eleven2.m3u8
