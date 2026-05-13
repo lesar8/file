@@ -33,8 +33,6 @@ http://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
 http://sgclient.duckdns.org/source/tv360.m3u8?id=65
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2
 http://vips-livecdn.fptplay.net/live/media/VTV2HD/live_hls_avc/index.m3u8
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",VTV3
-http://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/8f/ff/f9/93/31/1c/8ff93-pvtv4hd-channel-unkn.png",VTV4
 http://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/46/68/84/40/06/6a/46840-pvtvcnth-channel-unkn.png",VTV Cần Thơ
