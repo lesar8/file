@@ -17,9 +17,9 @@ http://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260513cd1fecbaa2b3e4f04ff4f3059a7df884.jpg",Dazn Eleven 1
+#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260513cd1fecbaa2b3e4f04ff4f3059a7df884.jpg",DAZN Eleven 1
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260513cd1fecbaa2b3e4f04ff4f3059a7df884.jpg",Dazn Eleven 2
+#EXTINF:-1 group-title="Kênh" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260513cd1fecbaa2b3e4f04ff4f3059a7df884.jpg",DAZN Eleven 2
 http://znty.dyndns.org:5010/hls/eleven2.m3u8
 #EXTINF:-1 group-title="Kênh" tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside
 http://aka-live1050.delivery.roku.com/de912953-aba1-4d54-8c77-d456140fa36b/t2-origin/out/v1/live.m3u8
