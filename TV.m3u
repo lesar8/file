@@ -20,11 +20,7 @@ http://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
 http://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=93857193760b4aa882db3880cf07ecaf:0241398b0816b126f4e5b715f993b6c6
-http://livevlisctcdnw.seenow.vn/livesnv2/VTV9_HD/manifest.mpd
+http://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img.upanh.moe/v42V4yxd/Eurosport-1.png",Eurosport 1
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside
