@@ -10,6 +10,7 @@ https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9887
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603225ec124b473d8e92f3ec1a72e1a2d8ae2.jpg",TV360+10
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9957
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 http://livevlisctcdnw.seenow.vn/livesnv2/HTV_THETHAO/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football
