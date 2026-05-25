@@ -30,7 +30,7 @@ http://livevlisctcdnw.seenow.vn/livesnv2/VTV7_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên
 http://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.upanh.moe/v42V4yxd/Eurosport-1.png",Eurosport 1
-http://81.15.109.89:8001/play/Eurosport1Poland
+http://znty.dyndns.org:5010/hls/eurosport.m3u8
 #EXTINF:-1 tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside
 http://aka-live1050.delivery.roku.com/de912953-aba1-4d54-8c77-d456140fa36b/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603257814a8fa6d071b6a1f3f886d46dffaed.jpg",Top Rank Classics
