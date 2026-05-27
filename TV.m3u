@@ -30,7 +30,7 @@ http://livevlisctcdnw.seenow.vn/livesnv2/VTV7_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s12937.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png",HTV4
 http://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202605275ebac67b41ba3ae270d8f5c1d42c3978.jpg",World Billiards TV
-http://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV
 http://aka-live1050.delivery.roku.com/7bdb9bb8-6f3b-42c3-9ea7-44ec93c849cd/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside
