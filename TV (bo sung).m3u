@@ -34,7 +34,7 @@ http://livesct.vtvprime.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e619c5b54494762b131f65fc34a885b:676d9f5a28d409d7d601514baa147c9d
 http://livesct.vtvprime.vn/livesnv2/HAY_TV/manifest.mpd
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260602582cb7d6a3773f739839148e03dda80f.jpg",World Poker Tour
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_2026060228a5959a6e3b7b929d06528112e296a3.jpg",World Poker Tour
 https://dtqutq7lmcchv.cloudfront.net/10001/99991317/hls/playlist.m3u8?ads.xumo_channelId=99991317
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606025569c5c17ad8c3b4508b178067498b82.jpg",FTF Sports
 http://aka-live1050.delivery.roku.com/4e1bfa5f-346d-44f9-a848-60b7c0167841/t2-origin/out/v1/live.m3u8
