@@ -12,11 +12,11 @@ http://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 http://sgclient.duckdns.org/source/tv360.m3u8?id=9957
 #EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0
+#KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:0123456789abcdef0123456789abcdef
 http://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png",ON Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0
+#KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:0123456789abcdef0123456789abcdef
 http://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png",ON Sports News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -101,9 +101,9 @@ https://dash.antik.sk/live/test_fightbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
 http://vips-livecdn.fptplay.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:0123456789abcdef0123456789abcdef
 http://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
-#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
-http://livesct.vtvprime.vn/livesnv2/VTV1_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
 http://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
