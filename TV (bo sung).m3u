@@ -12,15 +12,15 @@ http://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 http://sgclient.duckdns.org/source/tv360.m3u8?id=9957
 #EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0
 http://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png",ON Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0
 http://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png",ON Sports News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=0
 http://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png",ON Sports+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
