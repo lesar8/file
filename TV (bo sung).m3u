@@ -40,13 +40,13 @@ http://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV - Roku
 http://aka-live1050.delivery.roku.com/7bdb9bb8-6f3b-42c3-9ea7-44ec93c849cd/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-logo="https://img.upanh.moe/v42V4yxd/Eurosport-1.png",Eurosport 1 - ANTIK
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604775c39cc2c7255c7143d6500dbbb3723.jpg",Eurosport 1 - ANTIK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
-#EXTINF:-1 tvg-logo="https://img.upanh.moe/v42V4yxd/Eurosport-1.png",Eurosport 1
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604775c39cc2c7255c7143d6500dbbb3723.jpg",Eurosport 1
 http://znty.dyndns.org:5010/hls/eurosport.m3u8
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260513cd1fecbaa2b3e4f04ff4f3059a7df884.jpg",DAZN Eleven 1
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604398290b21a13a84dfd31ba24eb58981f.jpg",DAZN Eleven 1
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260513cd1fecbaa2b3e4f04ff4f3059a7df884.jpg",DAZN Eleven 2
 http://znty.dyndns.org:5010/hls/eleven2.m3u8
