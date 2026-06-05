@@ -77,6 +77,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_c
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260605d41cee59cbe485ea8cded83a2c66aeed.jpg",Fight Network - Amagi
 http://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260605e50deee23ea1abe1cf66467b07b18987.jpg",Fite 24/7 - Amagi
+http://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-ssfite247-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260605e50deee23ea1abe1cf66467b07b18987.jpg",Fite 24/7 - Amagi
 http://amg26268-amg26268c18-freelivesports-emea-10883.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-ssfite247-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606055ec64afee6e8bd75fd0b9871776d57ab.jpg",Fight TV - SoFAST
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
