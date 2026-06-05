@@ -4,15 +4,6 @@
 # freem3u.xyz = vpsttt.vietanhtv.top = sgclient.duckdns.org
 # bia-cf.live.pv-cdn.net = a83aivottepl-a.akamaihd.net = live-pv-ta.amazon.fastly-edge.com = otte.live.fly.ww.aiv-cdn.net
 
-#EXTINF:-1 tvg-id="KozoomTV.fr@SD",Kozoom TV (1080p)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
-#EXTINF:-1 tvg-id="KozoomTV.fr@SD" tvg-logo="https://i.imgur.com/M1Ee79b.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Sports",KOZOOM TV (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0
-#EXTINF:-1 tvg-name="Kozoom" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3a13474e-b983-41c1-9ef1-0e11524eee06" group-title="SPORTS",Kozoom (Love4vn-Live)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8?channel_name=Kozoom&content_genre=Billiard%2CPool%2CSnooker%2CSport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-#EXTINF:-1 tvg-id="",Billiards+ (1080p)
-https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Xumo
 http://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Xumo
@@ -29,14 +20,22 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playl
 http://aka-live1050.delivery.roku.com/4fce7c00-6a39-4c09-bc6c-2ae2c006e87e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606043ed099fa9ec4bc25b17876d5969dfdb0.jpg",Fubo Sports Network - Wurl
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202605275ebac67b41ba3ae270d8f5c1d42c3978.jpg",World Billiards TV - Wurl
-http://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202605275ebac67b41ba3ae270d8f5c1d42c3978.jpg",World Billiards TV - Rakuten
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV - OTTera
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=15650
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV - Roku
 http://aka-live1050.delivery.roku.com/7bdb9bb8-6f3b-42c3-9ea7-44ec93c849cd/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606bfd0f2b56ba9d695a5be0a7e28c631fc.jpg",Kozoom TV - Amagi
+http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606bfd0f2b56ba9d695a5be0a7e28c631fc.jpg",Kozoom TV - SoFAST
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606bfd0f2b56ba9d695a5be0a7e28c631fc.jpg",Kozoom TV - DistroTV
+http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202605275ebac67b41ba3ae270d8f5c1d42c3978.jpg",World Billiards TV - Wurl
+http://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202605275ebac67b41ba3ae270d8f5c1d42c3978.jpg",World Billiards TV - Rakuten
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606f1bfb16f141aed682d5b04de211a6060.jpg",Billiards+ - SoFAST
+http://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside - Tubi
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside - Tubi
