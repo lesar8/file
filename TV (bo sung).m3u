@@ -3,14 +3,13 @@
 # livevlisctcdnw.seenow.vn/livesnv2/ = livevlisctcdnw.seenow.vn/mean/ = livesct.vtvprime.vn/livesnv2/ = cdnet-cdn-01.onsports.vn/onplus/
 # freem3u.xyz = vpsttt.vietanhtv.top = sgclient.duckdns.org
 # bia-cf.live.pv-cdn.net = a83aivottepl-a.akamaihd.net = live-pv-ta.amazon.fastly-edge.com = otte.live.fly.ww.aiv-cdn.net
+# frequency.stream/mt/ = frequency.stream/dist/
 
-#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432", Poker Night In America
-https://linear-1068.frequency.stream/dist/freelivesports/1068/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3Nwb3J0c3BsdXMvbG9nby8xZDkxZmMzNy1hNzVjLTQ0OTAtODczOS1mOWM3OWE4Zjk0MzI", 07.Poker Night In America
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_2026060739952b52186f56a261e5479e0a469973.jpg", Poker Night In America - Free Live Sports
 https://linear-1068.frequency.stream/mt/freelivesports/1068/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Free Live Sports
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour Live! - Free Live Sports
 https://d39azd0vpxfn6x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/406.m3u8
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour (Spain) - Free Live Sports
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour Spain - Free Live Sports
 https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - KlowdTV
 http://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
@@ -72,7 +71,7 @@ http://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Xumo
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Xumo
-http://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+http://linear-893.frequency.stream/mt/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Plex
 http://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603235e33ce2fdd12d46885c9097ec96f3578.jpg",PFL MMA - Roku
