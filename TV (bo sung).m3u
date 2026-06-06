@@ -4,12 +4,18 @@
 # freem3u.xyz = vpsttt.vietanhtv.top = sgclient.duckdns.org
 # bia-cf.live.pv-cdn.net = a83aivottepl-a.akamaihd.net = live-pv-ta.amazon.fastly-edge.com = otte.live.fly.ww.aiv-cdn.net
 
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour Spain - Free Live Sports
-https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-sportstribalemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://media.unreel.me/prod/sportsplus/logo/1d91fc37-a75c-4490-8739-f9c79a8f9432", Poker Night In America
+https://linear-1068.frequency.stream/dist/freelivesports/1068/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3Nwb3J0c3BsdXMvbG9nby8xZDkxZmMzNy1hNzVjLTQ0OTAtODczOS1mOWM3OWE4Zjk0MzI", 07.Poker Night In America
+https://linear-1068.frequency.stream/mt/freelivesports/1068/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Free Live Sports
-https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
+https://d39azd0vpxfn6x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/406.m3u8
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour (Spain) - Free Live Sports
+https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - KlowdTV
 http://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Free Live Sports
+https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Samsung TV Plus
 http://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Xumo
