@@ -108,9 +108,9 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606d7a70325928fe556cbb1c4f4179691d8.jpg",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606087e8c91c6ea79ecce6a0d2d815d533874.jpg",SporTV (1280x720)
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606087e8c91c6ea79ecce6a0d2d815d533874.jpg",SporTV (1280p)
 http://46.151.196.223:14286
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606087e8c91c6ea79ecce6a0d2d815d533874.jpg",SporTV (852x480)
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606087e8c91c6ea79ecce6a0d2d815d533874.jpg",SporTV (852p)
 http://46.151.196.223:14288
 #EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
