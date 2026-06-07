@@ -132,6 +132,10 @@ http://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
+#EXTINF:-1 tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png",ON Sports+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+http://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
 http://vips-livecdn.fptplay.net/live/media/VTV1HD/live_hls_avc/index.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
