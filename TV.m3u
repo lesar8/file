@@ -21,12 +21,14 @@ http://livevlisctcdnw.seenow.vn/livesnv2/HTV_THETHAO/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 http://livevlisctcdnw.seenow.vn/livesnv2/VTV7_HD/manifest.mpd
-#EXTINF:-1 tvg-logo="http://s12920.cdn.mytvnet.vn/vimages/c5/52/26/64/4d/d2/c5264-psctv15ssportt2-channel-unkn.png",SCTV15
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606087e8c91c6ea79ecce6a0d2d815d533874.jpg",SporTV
+http://46.151.196.223:14284
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260608e59333940782b17ae52ee5112b02b35c.jpg",SporTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-http://livevlisctcdnw.seenow.vn/livesnv2/SCTV15HD/manifest.mpd
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202605275ebac67b41ba3ae270d8f5c1d42c3978.jpg",World Billiards TV
-http://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+https://bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=15650
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606025304aca6a7146b584de17a46484717f2.jpg",HBO Boxing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
@@ -39,10 +41,6 @@ https://bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
 https://bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
-https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 #EXTINF:-1 tvg-logo="http://s12937.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png",HTV4
 http://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa
