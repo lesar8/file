@@ -8,11 +8,11 @@ http://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 http://livevlisctcdnw.seenow.vn/livesnv2/VTV3_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+11
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9958
+http://sgclient.duckdns.org/source/tv360.m3u8?id=9958
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+9
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9887
+http://sgclient.duckdns.org/source/tv360.m3u8?id=9887
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+10
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=9957
+http://sgclient.duckdns.org/source/tv360.m3u8?id=9957
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
