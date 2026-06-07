@@ -39,10 +39,10 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playl
 http://aka-live1050.delivery.roku.com/4fce7c00-6a39-4c09-bc6c-2ae2c006e87e/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606043ed099fa9ec4bc25b17876d5969dfdb0.jpg",Fubo Sports Network - FuboTV
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV - Free Live Sports
-http://stream.ads.ottera.tv/playlist.m3u8?network_id=15650
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV - Roku
 http://aka-live1050.delivery.roku.com/7bdb9bb8-6f3b-42c3-9ea7-44ec93c849cd/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV - Free Live Sports
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=15650
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606bfd0f2b56ba9d695a5be0a7e28c631fc.jpg",Kozoom TV - DistroTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0
