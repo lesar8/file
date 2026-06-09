@@ -1,6 +1,6 @@
 #EXTM3U
 
-# vips-livecdn.fptplay.net/live/ = live.fptplay53.net/live/  | live.fptplay53.net/..hd1/..vhls.smil = 1920p,  hls.smil = 1280p
+# vips-livecdn.fptplay.net/live/ = live.fptplay53.net/live/  | live.fptplay53.net/..hd1/.._vhls.smil = 1920p, .._hls.smil = 1280p
 # livevlisctcdnw.seenow.vn/livesnv2/ = livevlisctcdnw.seenow.vn/mean/ = livesct.vtvprime.vn/livesnv2/ = cdnet-cdn-01.onsports.vn/onplus/
 # freem3u.xyz = vpsttt.vietanhtv.top = sgclient.duckdns.org
 # bia-cf.live.pv-cdn.net = a83aivottepl-a.akamaihd.net = live-pv-ta.amazon.fastly-edge.com = otte.live.fly.ww.aiv-cdn.net
@@ -193,6 +193,18 @@ http://cdnet-cdn-01.onsports.vn/onplus/VTV3_HD/manifest.mpd
 http://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn.m3u8
 #EXTINF:-1 tvg-logo="http://s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên
 http://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://s7772.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png",VTV6
+http://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
+#EXTINF:-1 tvg-logo="http://s7772.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png",VTV6
+http://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://s7772.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png",VTV6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+http://cdnet-cdn-01.onsports.vn/onplus/VTV6_HD/manifest.mpd
+#EXTINF:-1 tvg-logo="http://s7772.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png",VTV6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+http://livevlisctcdnw.seenow.vn/livesnv2/VTV6_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
 http://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
