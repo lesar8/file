@@ -1,269 +1,279 @@
 #EXTM3U
 
-# vips-livecdn.fptplay.net/live/ = live.fptplay53.net/live/
+# vips-livecdn.fptplay.net/live/ = live.fptplay53.net/live/  | live.fptplay53.net/..hd1/.._vhls.smil = 1920p, .._hls.smil = 1280p
 # livevlisctcdnw.seenow.vn/livesnv2/ = livevlisctcdnw.seenow.vn/mean/ = livesct.vtvprime.vn/livesnv2/ = cdnet-cdn-01.onsports.vn/onplus/
 # freem3u.xyz = vpsttt.vietanhtv.top = sgclient.duckdns.org
 # bia-cf.live.pv-cdn.net = a83aivottepl-a.akamaihd.net = live-pv-ta.amazon.fastly-edge.com = otte.live.fly.ww.aiv-cdn.net
 # frequency.stream/mt/ = frequency.stream/dist/
 
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606081b73547632e7a08c2c83a7c2d340035e.jpg",French Lover TV
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606081b73547632e7a08c2c83a7c2d340035e.jpg",French Lover TV
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/12124/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_2026060811cfc32ecdc86a298995133aeb9d9179.jpg",JapanHDV
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_2026060811cfc32ecdc86a298995133aeb9d9179.jpg",JapanHDV
 http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/6225/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_2026060739952b52186f56a261e5479e0a469973.jpg", Poker Night In America - Free Live Sports
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_2026060739952b52186f56a261e5479e0a469973.jpg", Poker Night In America - Free Live Sports
 https://linear-1068.frequency.stream/mt/freelivesports/1068/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour Live! - Free Live Sports
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour Live! - Free Live Sports
 https://d39azd0vpxfn6x.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/406.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour Spain - Free Live Sports
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour Spain - Free Live Sports
 https://amg00218-wptenterprises-amg00218c2-sportstribal-emea-1901.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-sportstribalemea/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - KlowdTV
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - KlowdTV
 http://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Free Live Sports
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Free Live Sports
 https://amg00218-wptenterprises-amg00218c1-sportstribal-emea-1900.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertour-sportstribalemea/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Samsung TV Plus
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Samsung TV Plus
 http://amg00477-samsungelectron-worldpokertour-samsunguk-81igb.amagi.tv/playlist/amg00477-samsungelectron-worldpokertour-samsunguk/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Xumo
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Xumo
 http://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Xumo
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Xumo
 https://dtqutq7lmcchv.cloudfront.net/10001/99991317/hls/playlist.m3u8?ads.xumo_channelId=99991317
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Rakuten TV
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604be9da9961e40975956561c1a9b6d23ce.jpg",World Poker Tour - Rakuten TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/playlist.m3u8?ads.xumo_channelId=88883102
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606025569c5c17ad8c3b4508b178067498b82.jpg",FTF Sports - Roku
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606025569c5c17ad8c3b4508b178067498b82.jpg",FTF Sports - Roku
 http://aka-live1050.delivery.roku.com/4e1bfa5f-346d-44f9-a848-60b7c0167841/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325fb8546c4382c7f6b88827d85131a4c6f.jpg",TNA Wrestling - Free Live Sports
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325fb8546c4382c7f6b88827d85131a4c6f.jpg",TNA Wrestling - Free Live Sports
 http://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325fb8546c4382c7f6b88827d85131a4c6f.jpg",TNA Wrestling - Roku
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325fb8546c4382c7f6b88827d85131a4c6f.jpg",TNA Wrestling - Roku
 http://aka-live1050.delivery.roku.com/00c75b40-02b2-4c11-9bd9-98be0b8600e8/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606043ed099fa9ec4bc25b17876d5969dfdb0.jpg",Fubo Sports Network - Tubi
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606043ed099fa9ec4bc25b17876d5969dfdb0.jpg",Fubo Sports Network - Tubi
 https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606043ed099fa9ec4bc25b17876d5969dfdb0.jpg",Fubo Sports Network - Roku
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606043ed099fa9ec4bc25b17876d5969dfdb0.jpg",Fubo Sports Network - Roku
 http://aka-live1050.delivery.roku.com/4fce7c00-6a39-4c09-bc6c-2ae2c006e87e/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606043ed099fa9ec4bc25b17876d5969dfdb0.jpg",Fubo Sports Network - FuboTV
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606043ed099fa9ec4bc25b17876d5969dfdb0.jpg",Fubo Sports Network - FuboTV
 https://wurlfubo.global.transmit.live/hls/67f42332d3dd98936978f581/v1/fubotv_fubo_sports_network_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV - Roku
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV - Roku
 http://aka-live1050.delivery.roku.com/7bdb9bb8-6f3b-42c3-9ea7-44ec93c849cd/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV - Free Live Sports
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260527a455d9e06f5392fad96a0f1dd70bbf78.jpg",Billiard TV - Free Live Sports
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=15650
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606bfd0f2b56ba9d695a5be0a7e28c631fc.jpg",Kozoom TV - DistroTV
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606bfd0f2b56ba9d695a5be0a7e28c631fc.jpg",Kozoom TV - DistroTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 http://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8?ads.vf=CAJPqH6STD0
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606bfd0f2b56ba9d695a5be0a7e28c631fc.jpg",Kozoom TV - Free Live Sports
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606bfd0f2b56ba9d695a5be0a7e28c631fc.jpg",Kozoom TV - Free Live Sports
 http://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606bfd0f2b56ba9d695a5be0a7e28c631fc.jpg",Kozoom TV - SoFast
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606bfd0f2b56ba9d695a5be0a7e28c631fc.jpg",Kozoom TV - SoFast
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202605275ebac67b41ba3ae270d8f5c1d42c3978.jpg",World Billiards TV - Wurl
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202605275ebac67b41ba3ae270d8f5c1d42c3978.jpg",World Billiards TV - Wurl
 http://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202605275ebac67b41ba3ae270d8f5c1d42c3978.jpg",World Billiards TV - Rakuten TV
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202605275ebac67b41ba3ae270d8f5c1d42c3978.jpg",World Billiards TV - Rakuten TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606f1bfb16f141aed682d5b04de211a6060.jpg",Billiards+ - SoFast
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606f1bfb16f141aed682d5b04de211a6060.jpg",Billiards+ - SoFast
 http://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside - Tubi
+#EXTINF:-1 tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside - Tubi
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside - Tubi
+#EXTINF:-1 tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside - Tubi
 http://live-manifest.production-public.tubi.io/live/c92d028f-fd29-4925-9c4d-271bfe4262ec/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside - Roku
+#EXTINF:-1 tvg-logo="https://img.upanh.moe/JFQd8byN/DAZN-Ringside-png.png",DAZN Ringside - Roku
 http://aka-live1050.delivery.roku.com/de912953-aba1-4d54-8c77-d456140fa36b/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.upanh.moe/zVDsfxxh/DAZN-Combat-png.png",DAZN Combat - Rakuten TV
+#EXTINF:-1 tvg-logo="https://img.upanh.moe/zVDsfxxh/DAZN-Combat-png.png",DAZN Combat - Rakuten TV
 http://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-combat-rakuten/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604f942e48e84edeb134505a101b89559d0.jpg",Top Rank Classics - Roku
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604f942e48e84edeb134505a101b89559d0.jpg",Top Rank Classics - Roku
 http://aka-live1050.delivery.roku.com/d60c9b4b-2756-4dea-adfc-e9ec609b8cce/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604f942e48e84edeb134505a101b89559d0.jpg",Top Rank Classics - Tubi
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604f942e48e84edeb134505a101b89559d0.jpg",Top Rank Classics - Tubi
 http://live-manifest.production-public.tubi.io/live/2a18fa03-db06-4f39-96c7-1751a3857698/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Prime Video
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Prime Video
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
 http://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Tubi
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Tubi
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Tubi
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Tubi
 http://live-manifest.production-public.tubi.io/live/dd6d627f-f0f8-48bb-b627-7f7c4fceec37/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Xumo
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Xumo
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Xumo
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Xumo
 http://linear-893.frequency.stream/mt/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Plex
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Plex
 http://linear-893.frequency.stream/mt/plex/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603235e33ce2fdd12d46885c9097ec96f3578.jpg",PFL MMA - Roku
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603235e33ce2fdd12d46885c9097ec96f3578.jpg",PFL MMA - Roku
 http://aka-live1050.delivery.roku.com/120da388-708f-4b8f-b4f4-8d564c348eb1/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603235e33ce2fdd12d46885c9097ec96f3578.jpg",PFL MMA - Samsung TV Plus
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603235e33ce2fdd12d46885c9097ec96f3578.jpg",PFL MMA - Samsung TV Plus
 https://d2w9b8sam7j3zv.cloudfront.net/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603235e33ce2fdd12d46885c9097ec96f3578.jpg",PFL MMA - Rakuten TV
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202603235e33ce2fdd12d46885c9097ec96f3578.jpg",PFL MMA - Rakuten TV
 https://a883593c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1BGTE1NQV9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604607e8477f1fed14dce9a4d616e4ead07.jpg",MMA-TV - SoFast
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604607e8477f1fed14dce9a4d616e4ead07.jpg",MMA-TV - SoFast
 http://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325d36d116dafd4e6e34c7ec1863f0ec5c8.jpg",Swerve Combat - Roku
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325d36d116dafd4e6e34c7ec1863f0ec5c8.jpg",Swerve Combat - Roku
 http://aka-live1050.delivery.roku.com/8e42098f-4bbb-4f94-8d79-012257e5a107/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325d36d116dafd4e6e34c7ec1863f0ec5c8.jpg",Swerve Combat - Roku
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325d36d116dafd4e6e34c7ec1863f0ec5c8.jpg",Swerve Combat - Roku
 http://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325d36d116dafd4e6e34c7ec1863f0ec5c8.jpg",Swerve Combat - Xumo
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260325d36d116dafd4e6e34c7ec1863f0ec5c8.jpg",Swerve Combat - Xumo
 https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8?ads.xumo_channelId=99991696
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260605d41cee59cbe485ea8cded83a2c66aeed.jpg",Fight Network - Amagi
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260605d41cee59cbe485ea8cded83a2c66aeed.jpg",Fight Network - Amagi
 http://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260605e50deee23ea1abe1cf66467b07b18987.jpg",Fite 24/7 - Free Live Sports
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260605e50deee23ea1abe1cf66467b07b18987.jpg",Fite 24/7 - Free Live Sports
 http://amg26268-amg26268c18-freelivesports-emea-10883.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-ssfite247-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606055ec64afee6e8bd75fd0b9871776d57ab.jpg",Fight TV - SoFast
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606055ec64afee6e8bd75fd0b9871776d57ab.jpg",Fight TV - SoFast
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606a54d7c74bb62980d62bf5ef947bee0e8.jpg",Hard Knocks Fighting Championship - Rakuten TV
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606a54d7c74bb62980d62bf5ef947bee0e8.jpg",Hard Knocks Fighting Championship - Rakuten TV
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.upanh.moe/fdjcZd9B/GLORY-Kickboxing-png.png",GLORY Kickboxing - Rakuten TV
+#EXTINF:-1 tvg-logo="https://img.upanh.moe/fdjcZd9B/GLORY-Kickboxing-png.png",GLORY Kickboxing - Rakuten TV
 https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606d7a70325928fe556cbb1c4f4179691d8.jpg",Persiana Fight
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260606d7a70325928fe556cbb1c4f4179691d8.jpg",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606087e8c91c6ea79ecce6a0d2d815d533874.jpg",SporTV (1920p)
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606087e8c91c6ea79ecce6a0d2d815d533874.jpg",SporTV (1920p)
 http://46.151.196.223:14284
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606087e8c91c6ea79ecce6a0d2d815d533874.jpg",SporTV (1280p)
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606087e8c91c6ea79ecce6a0d2d815d533874.jpg",SporTV (1280p)
 http://46.151.196.223:14286
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260608e59333940782b17ae52ee5112b02b35c.jpg",SporTV 2
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260608e59333940782b17ae52ee5112b02b35c.jpg",SporTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 http://bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+11
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+11
 http://sgclient.duckdns.org/source/tv360.m3u8?id=9958
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+9
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+9
 http://sgclient.duckdns.org/source/tv360.m3u8?id=9887
-#EXTINF:-1 group-title="TV" tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+10
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+10
 http://sgclient.duckdns.org/source/tv360.m3u8?id=9957
-#EXTINF:-1 group-title="TV" tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football
+#EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football
+#EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:0123456789abcdef0123456789abcdef
 http://livevlisctcdnw.seenow.vn/livesnv2/BONGDA_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png",ON Sports
+#EXTINF:-1 tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png",ON Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png",ON Sports
+#EXTINF:-1 tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png",ON Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:0123456789abcdef0123456789abcdef
 http://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png",ON Sports News
+#EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png",ON Sports News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png",ON Sports News
+#EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png",ON Sports News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:0123456789abcdef0123456789abcdef
 http://livevlisctcdnw.seenow.vn/livesnv2/THETHAO_TINTUC_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png",ON Sports+
+#EXTINF:-1 tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png",ON Sports+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png",ON Sports+
+#EXTINF:-1 tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png",ON Sports+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://livevlisctcdnw.seenow.vn/livesnv2/HAY_TV/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
 http://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
 http://live.fptplay53.net/fnxhd1/vtv1hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/VTV1_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0123456789abcdef0123456789abcdef:0123456789abcdef0123456789abcdef
 http://livevlisctcdnw.seenow.vn/livesnv2/VTV1_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
 http://freem3u.xyz/api/live/play.m3u8?vid=2
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=2
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1
 http://sgclient.duckdns.org/source/tv360.m3u8?id=2
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2
 http://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2
 http://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/VTV2_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",VTV3
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",VTV3
 http://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",VTV3
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",VTV3
 http://live.fptplay53.net/fnxhd1/vtv3hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",VTV3
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7a/a1/11/13/30/0c/7a113-pvtv3hd-channel-unkn.png",VTV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/VTV3_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-logo="http://s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên
 http://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-logo="http://s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên
 http://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
+#EXTINF:-1 tvg-logo="http://s7772.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png",VTV6
+http://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
+#EXTINF:-1 tvg-logo="http://s7772.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png",VTV6
+http://live.fptplay53.net/fnxhd1/vtv6hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://s7772.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png",VTV6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+http://cdnet-cdn-01.onsports.vn/onplus/VTV6/manifest.mpd
+#EXTINF:-1 tvg-logo="http://s7772.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png",VTV6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
+http://livevlisctcdnw.seenow.vn/livesnv2/VTV6/manifest.mpd
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
 http://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
 http://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/VTV7_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
+#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
 http://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
+#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
 http://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
+#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/VTV9_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
+#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 http://livevlisctcdnw.seenow.vn/livesnv2/VTV9_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
+#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
 https://vpsttt.vietanhtv.top/tv360/tv360.php?id=8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV10
+#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV10
 http://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV10
+#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV10
 http://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV10
+#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV10
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/VTV6_HD/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa
 http://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa
 http://liveh12.vtvprime.vn/hls/KHANHHOATV/03.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao
 http://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao
 http://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1
-http://vips-livecdn.fptplay.net/live/media/htv1/live247-hls-avc/htv1.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1
-http://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1
+#EXTINF:-1 tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1
+http://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/HTV1/manifest.mpd
-#EXTINF:-1 group-title="TV" tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1
+#EXTINF:-1 tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1
 http://freem3u.xyz/api/live/play.m3u8?vid=190
-#EXTINF:-1 group-title="TV" tvg-logo="http://s12937.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png",HTV4
+#EXTINF:-1 tvg-logo="http://s12937.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png",HTV4
 http://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s12937.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png",HTV4
+#EXTINF:-1 tvg-logo="http://s12937.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png",HTV4
 http://liveh12.vtvprime.vn/hls/HTVKey/03.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png",HTV7
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png",HTV7
 http://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png",HTV7
-http://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
-EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png",HTV7
+http://live.fptplay53.net/epzhd1/htv7hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
 http://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/htv9.m3u8
-EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
 http://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/HTV9/manifest.mpd
-EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
 http://freem3u.xyz/api/live/play.m3u8?vid=194
-#EXTINF:-1 group-title="TV" tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/d5/5f/f5/53/33/33/d5f53-poncinehd-channel-unkn.png",ON Cine
+#EXTINF:-1 tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/d5/5f/f5/53/33/33/d5f53-poncinehd-channel-unkn.png",ON Cine
 http://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 group-title="TV" tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/00/09/98/87/7c/c3/00987-ponviedramas-channel-unkn.png",ON Vie Dramas
+#EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/00/09/98/87/7c/c3/00987-ponviedramas-channel-unkn.png",ON Vie Dramas
 http://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 group-title="TV" tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b1/16/63/3d/d1/14/b163d-psctv9phimchu-channel-unkn.png",SCTV9
+#EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b1/16/63/3d/d1/14/b163d-psctv9phimchu-channel-unkn.png",SCTV9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
 http://livevlisctcdnw.seenow.vn/livesnv2/SCTV9/manifest.mpd
