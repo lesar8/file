@@ -1,6 +1,6 @@
 #EXTM3U
 
-# vips-livecdn.fptplay.net/live/ = live.fptplay53.net/live/
+# vips-livecdn.fptplay.net/live/ = live.fptplay53.net/live/  | live.fptplay53.net/..hd1/..vhls.smil = 1920p,  hls.smil = 1280p
 # livevlisctcdnw.seenow.vn/livesnv2/ = livevlisctcdnw.seenow.vn/mean/ = livesct.vtvprime.vn/livesnv2/ = cdnet-cdn-01.onsports.vn/onplus/
 # freem3u.xyz = vpsttt.vietanhtv.top = sgclient.duckdns.org
 # bia-cf.live.pv-cdn.net = a83aivottepl-a.akamaihd.net = live-pv-ta.amazon.fastly-edge.com = otte.live.fly.ww.aiv-cdn.net
@@ -224,7 +224,7 @@ http://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 http://cdnet-cdn-01.onsports.vn/onplus/VTV6_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa
-http://live.fptplay53.net/epzsd1/khanhhoa_vhls.smil/chunklist.m3u8
+http://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa
 http://liveh12.vtvprime.vn/hls/KHANHHOATV/03.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao
