@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260608e59333940782b17ae52ee5112b02b35c.jpg",SporTV 2 (1920p)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+http://bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260608e59333940782b17ae52ee5112b02b35c.jpg",SporTV 2 (1920p)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+http://a83aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260608e59333940782b17ae52ee5112b02b35c.jpg",SporTV 2 (1920p)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+http://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+#EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260608e59333940782b17ae52ee5112b02b35c.jpg",SporTV 2 (1920p)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
+http://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
