@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" group-title="🇻🇳📺| Kênh VTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV1_150x902_1675159127.webp",VTV1
+http://vtvgolive-vtv.vtvdigital.vn/ReiWuUQlLW0fO8gXM_G2cQ/1770066008/vtvgo/vtv1-manifest.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇻🇳📺| Kênh VTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV1_150x902_1675159127.webp",VTV1
+#EXTVLCOPT:http-user-agent=Mozilla AppleWebKit Chrome Safari
+http://vtvgolive-vtv.vtvdigital.vn/ReiWuUQlLW0fO8gXM_G2cQ/1770066008/vtvgo/vtv1-manifest.m3u8
+#EXTINF:-1 tvg-id="" group-title="🇻🇳📺| Kênh VTV" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV1_150x902_1675159127.webp",VTV1
+#EXTHTTP:{"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36", "Referer": "https://sctvonline.vn/"}
+http://vtvgolive-vtv.vtvdigital.vn/ReiWuUQlLW0fO8gXM_G2cQ/1770066008/vtvgo/vtv1-manifest.m3u8
