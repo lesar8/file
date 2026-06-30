@@ -201,8 +201,6 @@ http://livevlisctcdnw.seenow.vn/livesnv2/VTV3_HD/manifest.mpd
 http://vtvgolive-vtv.vtvdigital.vn/2bQgqIyku36q6qencmv0Xw/1770066009/vtvgo/vtv3-manifest.m3u8
 #EXTINF:-1 tvg-logo="http://s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên - fnxhd1
 http://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên - liveh12
-http://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8
 #EXTINF:-1 tvg-logo="http://s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên - vtvgo
 http://vtvgolive-vtv.vtvdigital.vn/k7MJei7KfY9LZH1PU1Tj2w/1770066011/vtvgo/vtv5tn-manifest.m3u8
 #EXTINF:-1 tvg-logo="http://s7772.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png",VTV6 - vips
@@ -305,11 +303,3 @@ http://livevlisctcdnw.seenow.vn/livesnv2/HTV9/manifest.mpd
 http://vpsttt.vietanhtv.top/htv/htv.php?id=2667
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9 - freem3u
 http://freem3u.xyz/api/live/play.m3u8?vid=194
-#EXTINF:-1 tvg-logo="http://s129144.cdn.mytvnet.vn/vimages/d5/5f/f5/53/33/33/d5f53-poncinehd-channel-unkn.png",ON Cine - freem3u
-#http://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/00/09/98/87/7c/c3/00987-ponviedramas-channel-unkn.png",ON Vie Dramas - freem3u
-#http://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b1/16/63/3d/d1/14/b163d-psctv9phimchu-channel-unkn.png",SCTV9 - livesnv2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22a9a9a63d2746df9f90c184c596105a:2d9d24caeaea42f8b44e413fe04f0e5c
-#http://livevlisctcdnw.seenow.vn/livesnv2/SCTV9/manifest.mpd
