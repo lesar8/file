@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+http://cdnet-cdn-01.onsports.vn/mean/BONGDA_HD/manifest.mpd
+#EXTINF:-1 tvg-logo="http://s7777.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",ON Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+http://cdnet-cdn-01.onsports.vn/livesnv2/BONGDA_HD/manifest.mpd
