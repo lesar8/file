@@ -174,8 +174,6 @@ http://livevlisctcdnw.seenow.vn/mean/VTV1_HD/manifest.mpd
 http://vtvgolive-vtv.vtvdigital.vn/ReiWuUQlLW0fO8gXM_G2cQ/1770066008/vtvgo/vtv1-manifest.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/09/99/9f/f7/7a/ab/099f7-pvtv1hd-channel-unkn.png",VTV1 - freem3u
 http://freem3u.xyz/api/live/play.m3u8?vid=2
-#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2 - fnxhd1
-http://live.fptplay53.net/fnxhd1/vtv2hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2 - onplus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
