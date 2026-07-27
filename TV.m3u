@@ -31,13 +31,13 @@ http://live-pv-ta.amazon.fastly-edge.com/dub-nitro/live/clients/dash/enc/cmtyd9k
 http://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
 http://vips-livecdn.fptplay.net/live/media/v7abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-logo="http://s12937.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png",HTV4
+#EXTINF:-1 tvg-logo="http://s12920.cdn.mytvnet.vn/vimages/63/3d/d7/7f/f9/93/63d7f-phtv4-channel-unkn.png",HTV4
 http://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa
 http://liveh12.vtvprime.vn/hls/KHANHHOATV/03.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/17/7c/c2/2c/c5/50/17c2c-pvtv2hd-channel-unkn.png",VTV2
 http://vips-livecdn.fptplay.net/live/media/v2abr/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-logo="http://s935.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên
+#EXTINF:-1 tvg-logo="http://s12920.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên
 http://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
 http://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
