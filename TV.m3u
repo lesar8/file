@@ -29,7 +29,7 @@ http://live-pv-ta.amazon.fastly-edge.com/dub-nitro/live/clients/dash/enc/cmtyd9k
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 http://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
-#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV7
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-logo="http://s12920.cdn.mytvnet.vn/vimages/63/3d/d7/7f/f9/93/63d7f-phtv4-channel-unkn.png",HTV4
 http://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
@@ -39,7 +39,7 @@ http://liveh12.vtvprime.vn/hls/KHANHHOATV/index.m3u8
 http://liveh12.vtvprime.vn/hls/VTV2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="http://s12920.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên
 http://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
-#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV9
+#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
