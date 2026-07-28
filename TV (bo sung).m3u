@@ -222,6 +222,10 @@ http://livevlisctcdnw.seenow.vn/livesnv2/VTV6/manifest.mpd
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv6-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7 - vips
 http://vips-livecdn.fptplay.net/live/media/v7abr/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7 - onplus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+http://cdnet-cdn-01.onsports.vn/onplus/VTV7_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7 - livesnv2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
@@ -232,12 +236,14 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv7-hd/KenhCoBan.m3u8
 http://vtvgolive-vtv.vtvdigital.vn/D9NIow-jXmAF-ah1J7HIXw/1770066012/vtvgo/vtv7-manifest.m3u8
 #EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9 - vips
 http://vips-livecdn.fptplay.net/live/media/v9abr/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9 - onplus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+http://cdnet-cdn-01.onsports.vn/onplus/VTV9_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9 - livesnv2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
 http://livevlisctcdnw.seenow.vn/livesnv2/VTV9_HD/manifest.mpd
-#EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9 - hoiquan
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/d3/35/5e/e2/26/62/d35e2-pvtv9hd-channel-unkn.png",VTV9 - vtvgo
 http://vtvgolive-vtv.vtvdigital.vn/D9NIow-jXmAF-ah1J7HIXw/1770066012/vtvgo/vtv9-manifest.m3u8
 #EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV10 - vips
