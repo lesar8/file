@@ -53,3 +53,5 @@ http://livevlisctcdnw.seenow.vn/livesnv2/HTV1/manifest.mpd
 http://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
 http://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9
+http://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/index.m3u8
