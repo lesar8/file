@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/0f/fe/ea/a6/60/03/0fea6-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên - mean
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea293eba54ad4ca0b028576afcee88c2:18ac6a360d0e48979d4b6c612f04b31f
+http://livevlisctcdnw.seenow.vn/onplus/VTV5_TN/manifest.mpd
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/0f/fe/ea/a6/60/03/0fea6-pvtv5tynguynhd-channel-unkn.png",VTV5 Tây Nguyên - mean
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
+http://livevlisctcdnw.seenow.vn/onplus/VTV5_TN/manifest.mpd
