@@ -290,7 +290,7 @@ http://livevlisctcdnw.seenow.vn/onplus/VTV6_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV10 - DASHDRM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
-http://livevliatmcdw.seenow.vn/live/data8/HTV_THETHAO/Live_DASHDRM/HTV_THETHAO.mpd
+http://livevliatmcdw.seenow.vn/live/data8/VTV6_HD/Live_DASHDRM/VTV6_HD.mpd
 #EXTINF:-1 tvg-logo="http://s72135.cdn.mytvnet.vn/vimages/b3/3f/ff/fe/eb/b5/b3ffe-lvtv10hdappc1710png-content-mytv.png",VTV10 - vmttv
 https://vmttv.dpdns.org/VTVGo/?vtv10-hd
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa - freem3u
