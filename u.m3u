@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao - DASHDRM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
-http://livevliatmcdw.seenow.vn/live/data8/HTV_THETHAO/Live_DASHDRM/HTV_THETHAO.mpd
-#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao - DASHDRM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8099c6c4ebc4ab88ce6f694f912e26d:ec57977de110995b8fc5d42e4ffdbcc9
-http://livevliatmcdw.seenow.vn/live/data8/HTV_THETHAO/Live_DASHDRM/HTV_THETHAO.mpd
