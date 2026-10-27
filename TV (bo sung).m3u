@@ -325,6 +325,8 @@ http://livevliatmcdw.seenow.vn/live/data8/HTV_THETHAO/Live_DASHDRM/HTV_THETHAO.m
 https://vmttv.dpdns.org/tv360/?id=htv-the-thao
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao - vietanhtv+vieon
 https://tv.vietanhtv.top/vieon/vieon.php?id=htv-the-thao
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao - dethich
+http://dethich.pw/htvthethao/index.m3u8
 #EXTINF:-1 tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1 - DASHDRM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -335,18 +337,24 @@ http://freem3u.xyz/api/live/play.m3u8?vid=190
 https://vmttv.dpdns.org/tv360/?id=htv1
 #EXTINF:-1 tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1 - vietanhtv+vieon
 https://tv.vietanhtv.top/vieon/vieon.php?id=htv1
+#EXTINF:-1 tvg-logo="http://s128199.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",HTV1 - dethich
+http://dethich.pw/htv1/index.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/10/03/30/0b/b7/7a/1030b-phtv4-channel-unkn.png",HTV4 - freem3u
 http://freem3u.xyz/api/live/play.m3u8?vid=9
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/10/03/30/0b/b7/7a/1030b-phtv4-channel-unkn.png",HTV4 - vmttv+tv360
 https://vmttv.dpdns.org/tv360/?id=htv4
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/10/03/30/0b/b7/7a/1030b-phtv4-channel-unkn.png",HTV4 - vietanhtv+vieon
 https://tv.vietanhtv.top/vieon/vieon.php?id=htv-key
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/10/03/30/0b/b7/7a/1030b-phtv4-channel-unkn.png",HTV4 - dethich
+http://dethich.pw/htv4/index.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png",HTV7 - freem3u
 http://freem3u.xyz/api/live/play.m3u8?vid=193
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png",HTV7 - vmttv+tv360
 https://vmttv.dpdns.org/tv360/?id=htv7-hd
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png",HTV7 - vietanhtv+vieon
 https://tv.vietanhtv.top/vieon/vieon.php?id=htv7-hd
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png",HTV7 - dethich
+http://dethich.pw/htv7/index.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9 - mean
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
@@ -365,3 +373,5 @@ http://freem3u.xyz/api/live/play.m3u8?vid=194
 https://vmttv.dpdns.org/tv360/?id=htv9-hd
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9 - vietanhtv+vieon
 https://tv.vietanhtv.top/vieon/vieon.php?id=htv9-hd
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",HTV9 - dethich
+http://dethich.pw/htv9/index.m3u8
