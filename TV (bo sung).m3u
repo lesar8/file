@@ -3,7 +3,7 @@
 # livevlisctcdnw.seenow.vn/mean,livesnv2,Live_DASHDRM1,onplus = livesct.vtvprime.vn = cdnet-cdn-01.onsports.vn
 # livevliatmcdw.seenow.vn = livebytatm.vtvprime.vn = livezenatm.vtvprime.vn
 # vips-livecdn.fptplay.net = event-a.fptplay53.net = live.fptplay53.net
-# otte.live.fly.ww.aiv-cdn.net = otte.cache.aiv-cdn.net = live-pv-ta.amazon.fastly-edge.com = bia-cf.live.pv-cdn.net = a83aivottepl-a.akamaihd.net
+# otte.live.fly.ww.aiv-cdn.net = otte.cache.aiv-cdn.net = live-pv-ta.amazon.fastly-edge.com = hls-ott.bia-cf.live.pv-cdn.net = bia-cf.live.pv-cdn.net
 # frequency.stream/mt/ = frequency.stream/dist/
 
 #EXTINF:-1,Triton Poker - Roku
@@ -70,15 +70,15 @@ http://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/playlist/rakutenAA-dazn-comb
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606025304aca6a7146b584de17a46484717f2.jpg",HBO Boxing
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
-http://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+http://hls-ott.bia-cf.live.pv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606023b17b967864f3ccf14ef01fe44a123c6.jpg",ONE Championship
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
-http://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+http://hls-ott.bia-cf.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Prime Video
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47
-http://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+http://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Tubi
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604bc758bfd5a9d23a0d31e205301231a16.jpg",UFC - Tubi
@@ -124,19 +124,19 @@ https://fighthls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="http://cdn.upanhlaylink.com/i/iNWPXsKm.jpg",TNT Sports 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-http://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
+http://hls-ott.bia-cf.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_202606043ed099fa9ec4bc25b17876d5969dfdb0.jpg",Fubo Sports Network - Prime Video
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1
-http://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
+http://hls-ott.bia-cf.live.pv-cdn.net/lhr-nitro/live/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260608e59333940782b17ae52ee5112b02b35c.jpg",SporTV 2 (1920p)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
-http://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+http://hls-ott.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260608e59333940782b17ae52ee5112b02b35c.jpg",SporTV 2 (1024p)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3
-http://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
+http://hls-ott.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash-sd/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+9
 https://vmttv.dpdns.org/tv360/?id=tv360-9
 #EXTINF:-1 tvg-logo="http://sf-static.upanhlaylink.com/img/image_20260604d22feca6bc4a36f5c048fc3337a6c45c.jpg",TV360+10
