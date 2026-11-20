@@ -407,6 +407,8 @@ https://vmttv.dpdns.org/tv360/?id=khanh-hoa
 https://tv.vietanhtv.top/vieon/vieon.php?id=khanh-hoa-1
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa - dethich
 http://dethich.pw/khanhhoa/index.m3u8
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",KTV - Khánh Hòa - baokhanhhoa
+https://cdnbaokhanhhoa.com/live/1332e3a79e27_std.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao - DASHDRM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
