@@ -3,7 +3,7 @@
 http://livevlisctcdnw.seenow.vn/mean/VTV1_HD/manifest.mpd
 #EXTINF:-1 tvg-logo="http://s7772.cdn.mytvnet.vn/vimages/9b/b0/05/5c/c3/31/9b05c-pvtv6ththaohd-channel-unkn.png",VTV6
 http://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6/master.m3u8
-#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7 - vtvgolivepre
+#EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/e5/53/33/33/33/3c/e5333-pvtv7hd-channel-unkn.png",VTV7
 http://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv7/master.m3u8
 #EXTINF:-1 tvg-logo="http://s129136.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",HTV Thể Thao
 https://tv.vietanhtv.top/vieon/vieon.php?id=htv-the-thao
