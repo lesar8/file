@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="http://i.imgur.com/n2PEK28.png" group-title="HTV",HTV7
+http://live.tvon.vn/s2/abr_hls/htv1/720p.m3u8
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="http://i.imgur.com/n2PEK28.png" group-title="HTV",HTV7
+http://live.tvon.vn/s2/abr_hls/htv7/720p.m3u8
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="http://i.imgur.com/n2PEK28.png" group-title="HTV",HTV7
+http://live.tvon.vn/s2/abr_hls/htv9/720p.m3u8
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="http://i.imgur.com/n2PEK28.png" group-title="HTV",HTV7
+http://live.tvon.vn/s2/abr_hls/htv1/1080p.m3u8
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="http://i.imgur.com/n2PEK28.png" group-title="HTV",HTV7
+http://live.tvon.vn/s2/abr_hls/htv7/1080p.m3u8
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="http://i.imgur.com/n2PEK28.png" group-title="HTV",HTV7
+http://live.tvon.vn/s2/abr_hls/htv9/1080p.m3u8
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="http://i.imgur.com/n2PEK28.png" group-title="HTV",HTV7
+http://live.tvon.vn/g2/vtv1/video_hd_compat/playlist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="http://i.imgur.com/n2PEK28.png" group-title="HTV",HTV7
+http://live.tvon.vn/g2/vtv3/video_hd_compat/playlist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" tvg-logo="http://i.imgur.com/n2PEK28.png" group-title="HTV",HTV7
+http://live.tvon.vn/g2/vtv6/video_hd_compat/playlist.m3u8
